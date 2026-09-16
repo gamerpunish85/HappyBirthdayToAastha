@@ -8,7 +8,7 @@ const BIRTHDAY_CONFIG = {
        BASIC
     =============================== */
 
-    name: "Diksha🧿🫀",
+    name: "Aastha darlo🧿🫀",
 
     pageTitle: "Something Special For You ❤️",
 
@@ -34,8 +34,7 @@ const BIRTHDAY_CONFIG = {
         "assets/photos/03.jpg",
         "assets/photos/04.jpg",
         "assets/photos/05.jpg",
-        "assets/photos/06.jpg",
-        "assets/photos/07.jpg"
+        "assets/photos/06.jpg"
 
     ],
 
